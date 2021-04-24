@@ -1,1 +1,1 @@
-alert("Bienvenido a Github para programadores");
+console.log("Bienvenido a Github para programadores");
